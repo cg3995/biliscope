@@ -10,4 +10,6 @@ BiliScope是一个为B站打造的Chrome/Edge插件。它可以让你在B站的�
 
 ## LICENSE
 
-MIT
+MIT 
+
+111
